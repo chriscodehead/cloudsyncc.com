@@ -22,9 +22,9 @@ $keyword = 'CloudSync, about CloudSync, ICT company, software developers, IT exp
 
             <section class="about-banner tw-mt-15">
                 <div class="container max-w-1800-px">
-                    <div class="section-bg-two tw-rounded-3xl tw-pb-84-px tw-pt-134-px">
+                    <div class="section-bg-two tw-rounded-3xl tw-pb-84-px tw-pt-134-px" style="padding-top: 80px;">
                         <div class="container">
-                            <div class="position-relative tw-pt-180-px tw-pb-200-px z-1">
+                            <div class="position-relative tw-pt-0-px tw-pb-200-px z-1">
                                 <div class="row justify-content-center">
                                     <div class="col-xxl-6 col-xl-7 col-sm-8">
                                         <div class="text-center">
@@ -42,7 +42,7 @@ $keyword = 'CloudSync, about CloudSync, ICT company, software developers, IT exp
                                 </div>
 
                                 <div class="">
-                                    <div class="positioned-image tw-rounded-3xl overflow-hidden common-shadow-fifteen d-inline-block position-absolute animation-upDown one">
+                                    <!-- <div class="positioned-image tw-rounded-3xl overflow-hidden common-shadow-fifteen d-inline-block position-absolute animation-upDown one">
                                         <img src="assets/images/thumbs/about-banner-img1.png" alt="Image" class="tw-rounded-3xl w-100 h-100 object-fit-cover">
                                     </div>
                                     <div class="positioned-image tw-rounded-3xl overflow-hidden common-shadow-fifteen d-inline-block position-absolute animation-upDown animation-delay-3 two">
@@ -56,7 +56,7 @@ $keyword = 'CloudSync, about CloudSync, ICT company, software developers, IT exp
                                     </div>
                                     <div class="positioned-image tw-rounded-3xl overflow-hidden common-shadow-fifteen d-inline-block position-absolute animation-upDown five">
                                         <img src="assets/images/thumbs/about-banner-img5.png" alt="Image" class="tw-rounded-3xl w-100 h-100 object-fit-cover">
-                                    </div>
+                                    </div> -->
                                     <div class="positioned-image tw-rounded-3xl overflow-hidden common-shadow-fifteen d-inline-block position-absolute animation-upDown animation-delay-3 six">
                                         <img src="assets/images/thumbs/about-banner-img6.png" alt="Image" class="tw-rounded-3xl w-100 h-100 object-fit-cover">
                                     </div>
@@ -91,7 +91,7 @@ $keyword = 'CloudSync, about CloudSync, ICT company, software developers, IT exp
                         <div class="col-xl-10">
                             <div class="row gy-5 flex-wrap-reverse">
                                 <div class="col-md-6">
-                                    <div class="pe-lg-5 d-flex h-100">
+                                    <div class="pe-lg-5 d-flex">
                                         <img src="img/blog-details-img1.png" alt="Thumbnail" class="w-100">
                                     </div>
                                 </div>
@@ -240,7 +240,7 @@ $keyword = 'CloudSync, about CloudSync, ICT company, software developers, IT exp
             </section>
 
 
-            <section class="task-management bg-pink-more-light-half drag-rotate-element-section bg-neutral-light-half">
+            <section style="padding-bottom: 50px;" class="task-management bg-pink-more-light-half drag-rotate-element-section bg-neutral-light-half">
                 <div class="container">
                     <div class="text-end tw--mb-40-px position-relative z-2">
                         <img src="assets/images/thumbs/laptop-man.png" alt="Image" class="tw-me-84-px">

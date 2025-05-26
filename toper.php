@@ -45,7 +45,7 @@
       </li>
 
       <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-       <a href="team" class="nav-submenu__link hover-bg-neutral-200 text-heading fw-semibold w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+       <a href="teams" class="nav-submenu__link hover-bg-neutral-200 text-heading fw-semibold w-100 d-block tw-py-2 tw-px-305 tw-rounded">
         Teams
        </a>
       </li>
