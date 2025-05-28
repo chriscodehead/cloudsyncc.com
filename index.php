@@ -746,7 +746,7 @@ $keyword = $siteName . ', ICT services, software development, website developmen
                                 <div class="tw-mt-8">
                                     <span class="tw-text-base fw-medium text-white">Excellent Performance</span>
                                     <h5 class="text-white tw-mt-1">
-                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Mobile Application Development</a>
+                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Online Store</a>
                                     </h5>
                                 </div>
                             </div>
@@ -765,7 +765,7 @@ $keyword = $siteName . ', ICT services, software development, website developmen
                                 <div class="tw-mt-8">
                                     <span class="tw-text-base fw-medium text-white">Excellent Performance</span>
                                     <h5 class="text-white tw-mt-1">
-                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Cloud Computing System</a>
+                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Real Estate Management</a>
                                     </h5>
                                 </div>
                             </div>
@@ -784,7 +784,7 @@ $keyword = $siteName . ', ICT services, software development, website developmen
                                 <div class="tw-mt-8">
                                     <span class="tw-text-base fw-medium text-white">Excellent Performance</span>
                                     <h5 class="text-white tw-mt-1">
-                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Mobile Application Development</a>
+                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Health Management Application</a>
                                     </h5>
                                 </div>
                             </div>
@@ -803,7 +803,7 @@ $keyword = $siteName . ', ICT services, software development, website developmen
                                 <div class="tw-mt-8">
                                     <span class="tw-text-base fw-medium text-white">Excellent Performance</span>
                                     <h5 class="text-white tw-mt-1">
-                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Creative UI/UX Designing</a>
+                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Food Recipes App</a>
                                     </h5>
                                 </div>
                             </div>
@@ -822,7 +822,7 @@ $keyword = $siteName . ', ICT services, software development, website developmen
                                 <div class="tw-mt-8">
                                     <span class="tw-text-base fw-medium text-white">Excellent Performance</span>
                                     <h5 class="text-white tw-mt-1">
-                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Mobile Application Development</a>
+                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Mobile Application</a>
                                     </h5>
                                 </div>
                             </div>
@@ -840,7 +840,7 @@ $keyword = $siteName . ', ICT services, software development, website developmen
                                 <div class="tw-mt-8">
                                     <span class="tw-text-base fw-medium text-white">Excellent Performance</span>
                                     <h5 class="text-white tw-mt-1">
-                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Cloud Computing System</a>
+                                        <a href="#" class="hover-text-main-600 text-white line-clamp-1 hover--translate-y-1">Blockchain Application</a>
                                     </h5>
                                 </div>
                             </div>
