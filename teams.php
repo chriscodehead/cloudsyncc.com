@@ -35,7 +35,7 @@ $keyword = 'CloudSync team, ICT experts, software developers, tech team Nigeria,
             <div class="col-lg-3" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="600">
               <div class="about-team group-item">
                 <div class="position-relative tw-rounded-xl overflow-hidden">
-                  <img src="assets/images/thumbs/about-team-img1.jpg" alt="Thumb" class="w-100 h-100 object-fit-cover hover-scale-108 tw-transition tw-duration-300">
+                  <img src="img/kosi.png" alt="Thumb" class="w-100 h-100 object-fit-cover hover-scale-108 tw-transition tw-duration-300">
                 </div>
                 <div class="tw-mt-705 text-center">
                   <h6 class="tw-mb-2">Kosi Chukwujindu (PhD)</h6>
@@ -59,7 +59,7 @@ $keyword = 'CloudSync team, ICT experts, software developers, tech team Nigeria,
             <div class="col-lg-3" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
               <div class="about-team group-item">
                 <div class="position-relative tw-rounded-xl overflow-hidden">
-                  <img src="assets/images/thumbs/about-team-img3.jpg" alt="Thumb" class="w-100 h-100 object-fit-cover hover-scale-108 tw-transition tw-duration-300">
+                  <img src="img/Okolocha.png" alt="Thumb" class="w-100 h-100 object-fit-cover hover-scale-108 tw-transition tw-duration-300">
 
                 </div>
                 <div class="tw-mt-705 text-center">
